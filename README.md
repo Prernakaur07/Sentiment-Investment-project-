@@ -1,4 +1,4 @@
-Project Report: Sentiment Investment Project
+** Sentiment Investment Project**
 1. Introduction
 
 The Sentiment Investment Project is a financial news analysis system designed to help investors gain insights into market trends, stock behavior, and cryptocurrency movements. By leveraging data from Reddit, financial news websites, and NewsAPI, the system aggregates real-time headlines, filters them for relevance, and performs sentiment analysis with investment recommendations using Groq LLM models.
